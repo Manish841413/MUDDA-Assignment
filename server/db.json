@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "first_name": "Manish",
+      "last_name": "Tiwari",
+      "email": "manishtiwari0019@gmail.com",
+      "phone": "+917070590207",
+      "id": 4
+    },
+    {
+      "first_name": "Manish",
+      "last_name": "Tiwari",
+      "email": "manishtiwari0019@gmail.com",
+      "phone": "+917070590207",
+      "id": 5
+    }
+  ]
+}
